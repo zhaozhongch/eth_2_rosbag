@@ -1,0 +1,6 @@
+<launch>
+    <param name="dataset_address" type="string" value="/home/zhaozhong/dataset/eth/table_3/" /> 
+    <param name="dataset_name" type="string" value="table_3" /> 
+    <node name="generate_eth_rosbag" pkg="eth_2_rosbag" type="generate_eth_rosbag" output="screen">
+    </node>
+</launch>
