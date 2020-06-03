@@ -23,4 +23,5 @@ You'll get 5 topics
 /rgb_image0
 /rgb_image1
 ```
-where `image0` is the gray image. Code should be straigtforward to understand
+where `image0` is the gray image. Code should be straigtforward to understand.  
+You should put the `eth_config` folder into your `VINS FUSION`'s config folder.
